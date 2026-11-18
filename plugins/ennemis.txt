@@ -1,0 +1,7 @@
+# Types d'ennemis charges au demarrage (un par ligne, sans recompiler).
+# Format : nom;pv;vitesse;largeur;hauteur;points;r;g;b
+# Dans une carte, 'E' = type 0 et les chiffres '1'..'9' = type correspondant.
+# Un ennemi avec plusieurs pv est un boss : il faut l'ecraser plusieurs fois.
+Goomba;1;70;28;28;200;150;80;20
+Koopa;2;45;28;36;400;30;160;60
+Boss;6;30;56;72;1000;90;20;140

@@ -1,0 +1,5 @@
+# Skins du joueur charges au demarrage (TAB dans le menu pour changer).
+# Format : nom;r;g;b
+Mario;220;50;40
+Luigi;40;190;70
+Yoshi;250;230;60

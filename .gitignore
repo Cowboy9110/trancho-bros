@@ -1,0 +1,8 @@
+mini-mario
+test_logique
+tests/tmp_niveau.txt
+niveaux/edition.txt
+memoire/*.aux
+memoire/*.log
+memoire/*.toc
+memoire/*.out
